@@ -1,0 +1,14 @@
+{
+  "name": "test3",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/test3"
+  ],
+  "resolutions": {},
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
